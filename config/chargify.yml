@@ -1,0 +1,8 @@
+development:
+  subdomain: linguasys
+  api_key: kRn4EVV5ZlnI3EbvtO
+  site_key: Q8SI3ccVVC5PpugQZfa
+production:
+  subdomain: REPLACE_SUBDOMAIN
+  api_key: REPLACE_API_KEY
+  site_key: REPLACE_SITE_KEY
