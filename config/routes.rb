@@ -1,5 +1,9 @@
 Lingua::Application.routes.draw do
-  resources :posts
+  post '/posts/webhooks'
+  resources :posts 
+  #collection do
+   #get 'webhooks'
+  #end
 
 
   # The priority is based upon order of creation:
